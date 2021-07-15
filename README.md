@@ -1,7 +1,7 @@
 👨🏻‍💻  About Me
 
 
-💀  I am Penetration Tester (also known as Ethical Hacker)
+💀  I am Penetration Tester (also known as a Ethical Hacker)
 
 💻  I'm currently working as Senior Penetration Tester
 
