@@ -4,8 +4,11 @@
 
 💀  I am Penetration Tester (also known as a Ethical Hacker)
 💻  I'm currently working as Senior Penetration Tester
+
 💡  I'm on track for learning more about Cyber Security, Internet Technologies and Software Development.
+
 ⌨️  I develop security tools & scripts, reading & maintaning exploit source code
+
 ✉️  You can write me an email at ........ Darkchainsources@gmail.com ......... I'll try to respond as soon as I can
 
 
@@ -22,9 +25,11 @@
 
 ---
 
+
 ### 🎓 Certification Badges
 
 [<img align="left" width="100px" src="https://bhavsec.com/img/ceh-badge.png"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=KfkCVMZRbFcw3rsbKPF8DZP1eqcq4QFLJP+stohNphI=)
 [<img align="left" width="100px" src="https://bhavsec.com/img/cybersecurity-cisco-badge.png"/>](https://www.credly.com/badges/ec563188-d435-4801-8d10-c8e2b7b4d6ff/public_url)
+
 
  ---
