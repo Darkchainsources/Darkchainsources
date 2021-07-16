@@ -9,13 +9,6 @@
 
 ⌨️  I develop security tools & scripts, reading & maintaning exploit source code
 
----
-
-### 🎓 Certification Badges
-
----
- 
-
 
 
 <h3 align="left">Languages and Tools:</h3>
