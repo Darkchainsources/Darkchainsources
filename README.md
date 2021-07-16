@@ -11,8 +11,3 @@
 
 ✉️  You can write me an email at ........ Darkchainsources@gmail.com ......... I'll try to respond as soon as I can
 
-
-### Talk with me,
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
